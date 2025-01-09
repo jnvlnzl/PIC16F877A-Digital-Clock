@@ -5,7 +5,7 @@ A functional HH:MM:SS digital clock using a PIC16F877A microcontroller.
 ![image](https://github.com/user-attachments/assets/04fe3363-24d0-4a38-b9b5-0a17704dc37d)
 
 ### Breadboard Implementation
-![image](https://github.com/user-attachments/assets/a1a62105-b245-4656-afec-a3ead5d675b2)
+![image](https://github.com/user-attachments/assets/7ba5f41b-21f0-42b7-8465-7abeb9de17a3)
 
 ### Results
 The project is divided into three main parts based on the functionality of the circuit: the Digital
